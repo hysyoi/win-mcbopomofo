@@ -277,3 +277,5 @@ You can use the following commands in PowerShell to verify the installation and 
   ```powershell
   reg query "HKLM\SOFTWARE\Microsoft\CTF\TIP\{8C9D652A-9B99-4B77-BA9A-3B0F76923B7B}\Category\Category\{534C48C1-063E-406F-8F50-F77617E46C9C}\{8C9D652A-9B99-4B77-BA9A-3B0F76923B7B}"
   ```
+
+  
